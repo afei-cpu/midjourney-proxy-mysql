@@ -1,3 +1,6 @@
+package com.github.novicezk.midjourney.service.store;
+
+import com.github.novicezk.midjourney.service.TaskStoreService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.transaction.annotation.Transactional;
 import org.springframework.stereotype.Service;
